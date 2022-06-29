@@ -1,0 +1,517 @@
+{
+  "Users" : {
+    "41Db0NZlekY9ZbmmSeGtfYLxl8D2" : {
+      "email" : "tanialechman@gmail.com",
+      "username" : "Tania"
+    },
+    "7vaCXFF8D3WPriIEvfmtlbTaIiX2" : {
+      "email" : "Ailecley@gmail.com",
+      "username" : "Ailec"
+    },
+    "ADYlTZhvA4f2vbUswV4W8kFiIZe2" : {
+      "email" : "aliaonan@gmail.com",
+      "username" : "Alia"
+    },
+    "PNigvWBbMwWQGDbC0seOhgWsyi73" : {
+      "email" : "deadlyascriot@gmail.com",
+      "username" : "Ailec"
+    },
+    "SoBpifoeWicuiJPLjN90jk8R1262" : {
+      "email" : "hinara@gmail.com",
+      "reviews" : {
+        "-MqoKZYv_JcfYgiH5eBh" : {
+          "doctor" : "HENG HUI SING",
+          "reviews" : "Was offered great care when visiting. Definitely know his work. "
+        }
+      },
+      "username" : "Alisha"
+    },
+    "WUy0ZfJyDpTsubsB5ibb1B9Rcic2" : {
+      "email" : "manarahh@gmail.com",
+      "username" : "Manarah"
+    },
+    "fJPrF9y6GbhC3jYHWbUsJu58bUf2" : {
+      "email" : "lucienmanan@gmail.com",
+      "username" : "Lucien "
+    },
+    "nj9oMK6QBVX26Y8pAgPGrunK09y2" : {
+      "email" : "celialimey@gmail.com",
+      "reviews" : {
+        "-MqrfJLiQ_G4t0ZEzbdw" : {
+          "doctor" : "IRENE LEE",
+          "reviews" : "Was reffered here by clinic doctor. Received the best care"
+        },
+        "-Mqt0aMpfIoe_GMvLnZm" : {
+          "doctor" : "ALAIN CHUN",
+          "reviews" : "Great psychologist. Patient and gives it all to help. Im forever appreciative"
+        },
+        "-Mqt970IR8t6kumLxAsI" : {
+          "doctor" : "CLARA ABIGAIL",
+          "reviews" : "Great doctor. Friendly and explains condition very thoroughly"
+        }
+      },
+      "username" : "Lia"
+    },
+    "oXiD1qGwjgPDRXiZUp9qIKX1hqg2" : {
+      "email" : "amirahh@gmail.com",
+      "username" : "LiaLey"
+    },
+    "r632OnOivsTGGABMalKTneOdolv2" : {
+      "email" : "malia.shay@gmail.com",
+      "reviews" : {
+        "-MqoDG7IZdaGwZy2AiA8" : {
+          "doctor" : "ANG CHAI LEONG",
+          "reviews" : "Great"
+        },
+        "-MqomWU_jeJDv-ZSunT5" : {
+          "doctor" : "LEE CHEN WEN",
+          "reviews" : "Great doctor overall!! "
+        },
+        "-Mqond5tW2ZDSQ2vu2Oi" : {
+          "doctor" : "IRENE LEE",
+          "reviews" : "Amazing doctor"
+        },
+        "-MqrV6oWAmBqBEvAbXqL" : {
+          "doctor" : "DAWN ANGELIA",
+          "doctorID" : "d2",
+          "hospital" : "h2",
+          "reviews" : "Good doctor and great with young children! ",
+          "specialty" : "s3"
+        },
+        "-MqsHyFPo3d9_szGiMmp" : {
+          "doctor" : "CHEW MING YAN",
+          "doctorID" : "d1",
+          "hospital" : "h1",
+          "reviews" : "Ear was blocked went to doctors for quick fix. Quick and easy. Great. ",
+          "specialty" : "s5"
+        },
+        "-MqsiGNd_ZzQdmXX0uYl" : {
+          "doctor" : "ALLEN SOON",
+          "reviews" : "Brought my father to visit, carefully and kindly explain condition and treatment. Patient and friendly "
+        }
+      },
+      "username" : "Malia_Shay"
+    }
+  },
+  "hospitals" : {
+    "h1" : {
+      "hosp" : "PANTAI HOSPITAL",
+      "specialties" : {
+        "s1" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "LEE CHEN WEN",
+              "hospital" : "Pantai Hospital KL",
+              "qualifications" : "MBBS (Malaya), FRCS (Edin)",
+              "reviews" : {
+                "-MqomWUX9rDmXIdT2qSN" : {
+                  "reviews" : "Great doctor overall!! ",
+                  "user" : "Malia_Shay"
+                },
+                "r1" : {
+                  "reviews" : "Got referred here for the best care received",
+                  "user" : "Melanie"
+                },
+                "r2" : {
+                  "reviews" : "Excellent",
+                  "user" : "Genia"
+                },
+                "r3" : {
+                  "reviews" : "Was patient to answer all my doubts. Great doctor",
+                  "user" : "Atiqah"
+                },
+                "r4" : {
+                  "reviews" : "Amazing care. Took my mother there for treatment. Received great care from the doctor and hospital",
+                  "user" : "Lia Jond"
+                }
+              }
+            },
+            "d2" : {
+              "doctor" : "ALLEN SOON",
+              "hospital" : "Pantai Hospital  Ipoh",
+              "qualifications" : "MBBS, MS(ORL-HNS) UKM, A.M(MAL),FASC",
+              "reviews" : {
+                "-MqsiGNasiJT0vsv0NEM" : {
+                  "reviews" : "Brought my father to visit, carefully and kindly explain condition and treatment. Patient and friendly ",
+                  "user" : "Malia_Shay"
+                },
+                "r1" : {
+                  "reviews" : "Professional and great with his work.",
+                  "user" : "Aktar"
+                },
+                "r2" : {
+                  "reviews" : "Funny and friendly to talk to. Calmed my nerves a lot",
+                  "user" : "Benetta"
+                }
+              }
+            },
+            "d3" : {
+              "doctor" : "CLARA ABIGAIL",
+              "hospital" : "Pantai Hosiptal Penang",
+              "qualifications" : "MBBS (MALAYA), FRCS (Edin)",
+              "reviews" : {
+                "-Mqt970D25QhV1uzYVru" : {
+                  "reviews" : "Great doctor. Friendly and explains condition very thoroughly",
+                  "user" : "Lia"
+                }
+              }
+            },
+            "d4" : {
+              "doctor" : "CHONG WEI PENG",
+              "hospital" : "Pantai Hospital KL",
+              "qualifications" : "MBBS, MRCP (UK), FNHAM, FSCAI"
+            },
+            "d5" : {
+              "doctor" : "ADZLINA OTHMAN",
+              "hospital" : "Pantai Hospital KL",
+              "qualifications" : "MBChB(UK) "
+            }
+          },
+          "specialty" : "CARDIOLOGY"
+        },
+        "s2" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "ABEL ZACH",
+              "hospital" : "Pantai Hospital KL",
+              "qualifications" : "MD (UKM), Master of Surgery ORL-HNS (UKM)",
+              "reviews" : {
+                "-Mqo221alhjsR1YCqIMg" : {
+                  "reviews" : "Great",
+                  "user" : "Malia_Shay"
+                },
+                "r1" : {
+                  "reviews" : "Kind and Friendly",
+                  "user" : "Abu Zain"
+                },
+                "r2" : {
+                  "reviews" : "Great treatment and care.Genuinely takes care of patients well",
+                  "user" : "Nadia"
+                }
+              }
+            },
+            "d2" : {
+              "doctor" : "BRENDA CHONG",
+              "hospital" : "Pantai Hospital Penang",
+              "qualifications" : "MBBCh(UK), FRCP (UK)"
+            },
+            "d3" : {
+              "doctor" : "SOON MAK CHUN",
+              "hospital" : "Pantai Hospital KL",
+              "qualifications" : "MD, M.Med-Universiti Kebangsaan Malaysia (UKM)"
+            }
+          },
+          "specialty" : "NEUROLOGY"
+        },
+        "s4" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "LUQMAN THAS",
+              "hospital" : "Pantai Hospital Ipoh",
+              "qualifications" : "MBBS(MYS), FRCS(EDIN), AM(MAL), PMP(PERAK)",
+              "reviews" : {
+                "-Mqmv-HdVprqr-gYniJX" : {
+                  "reviews" : "Great doctor. Knows what the patients need at all times ",
+                  "user" : "Masha"
+                }
+              }
+            },
+            "d2" : {
+              "doctor" : "RETNA HUI",
+              "hospital" : "Pantai Hospital Cheras",
+              "qualifications" : "MBBS (UM), MRCS (Ire), MS (UM),AM, FACS "
+            },
+            "d3" : {
+              "doctor" : "SHANKAR PILLAI",
+              "hospital" : "Pantai Hospital Penang",
+              "qualifications" : "MBBS (India), MS (Gen Surg) (UKM), FMAS (India),"
+            }
+          },
+          "specialty" : "COLORECTAL"
+        },
+        "s5" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "CHEW MING YAN",
+              "hospital" : "Pantai Hospital KL",
+              "qualifications" : "MBBS (Mumbai), M.Med ORL-HNS (Mal), CMIA (NIOSH)",
+              "reviews" : {
+                "-MqsHyFLzvppqCLpcI6C" : {
+                  "reviews" : "Ear was blocked went to doctors for quick fix. Quick and easy. Great. ",
+                  "user" : "Malia_Shay"
+                }
+              }
+            },
+            "d2" : {
+              "doctor" : "MAZLIN SALMAN",
+              "hospital" : "Pantai Hospital Ayer Keroh",
+              "qualifications" : "MBBS (UM), MS ORL-HNS (UKM)"
+            },
+            "d3" : {
+              "doctor" : "LIN WEI KIN",
+              "hospital" : "Pantai Hospital Penang",
+              "qualifications" : "FRCS (Edinburgh) Surgery-in-general, Edinburgh "
+            },
+            "d4" : {
+              "doctor" : "MOHD HUSNI AHMAN",
+              "hospital" : "Pantai Hospital KL",
+              "qualifications" : "MBBS (Mal), M.S.ORL-Head & Neck Injury (Mal)Â "
+            }
+          },
+          "specialty" : "ORTHOHINOLARYNGOLOGY"
+        },
+        "s6" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "DORAISAMY",
+              "hospital" : "Pantai Hospital Penang",
+              "qualifications" : "MBChB (UK), MRCP (UK), FRCR (UK), CCT (UK",
+              "reviews" : {
+                "r1" : {
+                  "reviews" : "Excellent with care and patient with elderly patients",
+                  "user" : "Gena"
+                },
+                "r2" : {
+                  "reviews" : "One of the Best Oncologist in Malaysia",
+                  "user" : "Inariah"
+                }
+              }
+            },
+            "d2" : {
+              "doctor" : "CHAN LEE WEN",
+              "hospital" : "Pantai Hosiptal KL",
+              "qualifications" : "MBBS(UM), MRCP(IRE)"
+            },
+            "d3" : {
+              "doctor" : "AZUNA BT DANIAL",
+              "hospital" : "Pantai Hospital Penang",
+              "qualification" : "MBBCh (UK), MCO (UM), AM"
+            },
+            "d4" : {
+              "doctor" : "LIM CHING WEI",
+              "hospital" : "Pantai Hosptial Penang",
+              "qualifications" : "MBBS (UWI), M.Clinical Oncology (UM)"
+            },
+            "d5" : {
+              "doctor" : "JAYEESHA SANTHRAM",
+              "hospital" : "Pantai Hospital KL",
+              "qualifications" : "MBBS (Manipal), DMRT (London), FFR.RCSI (Dublin)"
+            }
+          },
+          "specialty" : "ONCOLOGY"
+        }
+      }
+    },
+    "h2" : {
+      "hosp" : "ADVENTIST HOSPITAL",
+      "specialties" : {
+        "s3" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "ANG CHAI LEONG",
+              "hospital" : "Adventist Hospital",
+              "qualifications" : "MBBCh.BaO (NUI)l, RCPCH (UK)",
+              "reviews" : {
+                "-MqmfAR_o8oSXPvLIjfx" : {
+                  "reviews" : "Friendly and great in explaining the medical condition in layman's terms ",
+                  "user" : "Mira"
+                },
+                "-MqoDG7GNa9LtMAe3Ad-" : {
+                  "reviews" : "Great",
+                  "user" : "Malia_Shay"
+                },
+                "r1" : {
+                  "reviews" : "Great and excellent care by the doctor and team",
+                  "user" : "Canry"
+                },
+                "r2" : {
+                  "reviews" : "Friendly and professional at the same time",
+                  "user" : "Abdullah"
+                },
+                "r3" : {
+                  "reviews" : "Got referred here and can say that this is one of the best of his art",
+                  "user" : "Miran"
+                }
+              }
+            },
+            "d2" : {
+              "doctor" : "DAWN ANGELIA",
+              "hospital" : "Adventist Hospital",
+              "qualifications" : "MBBS (Ind), MRCPCH (UK), AM",
+              "reviews" : {
+                "-MqrV6oUh6PwD7uOdEBO" : {
+                  "reviews" : "Good doctor and great with young children! ",
+                  "user" : "Malia_Shay"
+                }
+              }
+            },
+            "d3" : {
+              "doctor" : "NATHAN CHIA",
+              "hospital" : "Adventist Hospital KL",
+              "qualifications" : "MBBS ( Malaya), A.M. (Malaysia), F.R.C.S. (Glasgow), F.R.A.C.S (Paediatric Surgery)"
+            },
+            "d4" : {
+              "doctor" : "RAJAHSWARAN NATHAN",
+              "hospital" : "Adventist Hospital KL",
+              "qualifications" : "KMN; ADK MS (Gen Surg) MCh (Paed Surg)"
+            }
+          },
+          "specialty" : "PEDIATRICS"
+        },
+        "s4" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "AZIZ MAHWAN ABDUL",
+              "hospital" : "Adventist Hospital Penang",
+              "qualifications" : "MBBCh BAO (UK), Master of Medicine (Internal Medicine) (UKM)"
+            },
+            "d2" : {
+              "doctor" : "CHRISTOPHER CHUNG",
+              "hospital" : "Adventist Hospital KL",
+              "qualifications" : "MD (UKM), MRCP (UK), Fellowship in Movement Disorders (Neurology)"
+            },
+            "d3" : {
+              "doctor" : "CHUNG MAH JUN",
+              "hospital" : "Adventist Hospital KL",
+              "qualifications" : "MD(Canada), MRCP(UK)"
+            }
+          },
+          "specialty" : "INTERNAL MEDICINE"
+        },
+        "s5" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "IRENE LEE",
+              "hospital" : "Adventist Hospital",
+              "qualifications" : "MBBS (Malaya), FRCS (Ire), ",
+              "reviews" : {
+                "-Mqond5pzFgpL3F26E9N" : {
+                  "reviews" : "Amazing doctor",
+                  "user" : "Malia_Shay"
+                },
+                "-MqrfJLf1i-FWl-jI_W9" : {
+                  "reviews" : "Was reffered here by clinic doctor. Received the best care",
+                  "user" : "Lia"
+                },
+                "r1" : {
+                  "reviews" : "My mom visited multiple times and everytime she was taken care of very well",
+                  "user" : "Amirah"
+                },
+                "r2" : {
+                  "reviews" : "Great doctor. Young but very professional in her care",
+                  "user" : "Marria"
+                },
+                "r3" : {
+                  "reviews" : "Taken care of when visiting. Even small problem she will care to it very well",
+                  "user" : "Vanussa"
+                }
+              }
+            },
+            "d2" : {
+              "doctor" : "HONG CHEN HU",
+              "hospital" : "Adventist Hospital Penang",
+              "qualifications" : "MD (USM), MRCP (UK), FRCP (Edinburgh), Fellowship in Gastroenterology (Mal) "
+            },
+            "d3" : {
+              "doctor" : "JONATHAN LEONG",
+              "hospital" : "Adventist Hospital Penang",
+              "qualifications" : "MBChB (Aberdeen), MRCP (UK), AM"
+            }
+          },
+          "specialty" : "HEPATOLOGY"
+        }
+      }
+    },
+    "h3" : {
+      "hosp" : "ISLAND HOSPITAL",
+      "specialties" : {
+        "s1" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "TUNG CHEW YONG",
+              "hospital" : "Island Hospital Penang",
+              "qualifications" : "MD (USM), MRCP (UK), Adv M Derm (UKM), AM"
+            },
+            "d2" : {
+              "doctor" : "AN THAN EN",
+              "hospital" : "Island Hospital Penang",
+              "qualifications" : "MBBS (Malaya), FAMM (Malaysia), MRCP (UK), FRCP (London), Dip Derm (London),"
+            },
+            "d3" : {
+              "doctor" : "MICHEAL SOON",
+              "hospital" : "Island Hospital Penang",
+              "qualifications" : "MBBS (IMU), MRCP (UK), Advanced Master of Dermatology (UKM)"
+            },
+            "d4" : {
+              "doctor" : "NICHOLAS CHUNG BENG SIN",
+              "hospital" : "Island Hospital Penang",
+              "qualifications" : "MD, MRCP (UK), Advanced Masters in Dermatology (UKM), AM"
+            }
+          },
+          "specialty" : "DERMATOLOGY"
+        },
+        "s2" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "ALAIN CHUN",
+              "hospital" : "Island Hospital Penang",
+              "qualifications" : "Masters in Counselling Psychology",
+              "reviews" : {
+                "-Mqt0aMnEYvEhJUWoPcR" : {
+                  "reviews" : "Great psychologist. Patient and gives it all to help. Im forever appreciative",
+                  "user" : "Lia"
+                }
+              }
+            },
+            "d2" : {
+              "doctor" : "FAHZRAN INTAN DANIA",
+              "hospital" : "Island Hospital Penang",
+              "qualifications" : "Bachelor of Psychology (Hons) (USM), Master Degree in Clinical Psychology (UKM)"
+            },
+            "d3" : {
+              "doctor" : "RAHLIA MANTARI",
+              "hospital" : "Island Hospital Penang",
+              "qualifications" : "M.A. Applied Psychology (Clinical), (Madras), CPsychol (UK)"
+            }
+          },
+          "specialty" : "PSYCHOLOGY"
+        },
+        "s3" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "AMER KHAN",
+              "hospital" : "Island Hospital Penang",
+              "qualifications" : "MB ChB (Edin), MRCP (UK), FRCP (Edin)"
+            },
+            "d2" : {
+              "doctor" : "LIESEL LAM CHIN LOI",
+              "hospital" : "Island Hospital Penang",
+              "qualifications" : "MBBS (London), MSc (London), MD (London), FRCP (Edinburgh),"
+            }
+          },
+          "specialty" : "ENDOCRINNOLOGY"
+        },
+        "s4" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "SOO CHUN TENG",
+              "hospital" : "Island Hospital Penang",
+              "qualifications" : "MD(USM), MRCP(UK)"
+            },
+            "d2" : {
+              "doctor" : "KIM FUNG KHAN",
+              "hospital" : "Island Hospital Penang",
+              "qualifications" : "M.D.(USM), MRCP(UK)"
+            },
+            "d3" : {
+              "doctor" : "NIM KOON LEO",
+              "hospital" : "Island Hospital Penang",
+              "qualifications" : "MBBS (India), MRCP (I)"
+            }
+          },
+          "specialty" : "INFECTIOUS DISEASE"
+        }
+      }
+    }
+  }
+}

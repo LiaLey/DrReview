@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "52958596246",
+    "firebase_url": "https://drreview-6626b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "drreview-6626b",
+    "storage_bucket": "drreview-6626b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52958596246:android:bef500705321ab1ede86b7",
+        "android_client_info": {
+          "package_name": "com.example.drreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52958596246-tst3lsoj50d8edgp2tcos55jnraburc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLd6Lfmm9L-Q66F0-nwaFT5q0fWRWhcrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52958596246-tst3lsoj50d8edgp2tcos55jnraburc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
