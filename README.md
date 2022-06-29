@@ -12,12 +12,11 @@ Note: Have not yet updated the feature where locations can be used to narrow sea
 
 <img src="Screenshots/Screenshot_20211214_193053_com.example.drreview.jpg" alt="Main" width="500" height="900"/>
 
-![Main](Screenshots/Screenshot_20211214_193053_com.example.drreview.jpg)
+<img src="Screenshots/Screenshot_20211214_193320_com.example.drreview.jpg" alt="Search" width="500" height="900"/>
 
-![Search](Screenshot_20211214_193320_com.example.drreview.jpg)
+<img src="Screenshots/Screenshot_20211214_193610_com.example.drreview.jpg" alt="Reviews" width="500" height="900"/>
 
-![Reviews](Screenshot_20211214_193610_com.example.drreview.jpg)
+<img src="Screenshots/Screenshot_20211214_193422_com.example.drreview.jpg" alt="Login" width="500" height="900"/>
 
-![Sign](Screenshot_20211214_193422_com.example.drreview.jpg)
+<img src="Screenshots/Screenshot_20211214_193814_com.example.drreview.jpg" alt="Register" width="500" height="900"/>
 
-![Reg](Screenshot_20211214_193814_com.example.drreview.jpg)
