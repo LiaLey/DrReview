@@ -3,14 +3,14 @@ Project done for Mobile Device Programming module. An app where users can look u
 
 ## A Quick Glimpse
 
-Database - Firebase
-Framework - Andriod Studio
+1. Database - Firebase
+2. Framework - Andriod Studio
 
 Note: Have not yet updated the feature where locations can be used to narrow search
 ---
 ## Some ScreenShots
 
-<img src="Screenshots/Screenshot_20211214_193053_com.example.drreview.jpg" alt="Main" width="200" height="200"/>
+<img src="Screenshots/Screenshot_20211214_193053_com.example.drreview.jpg" alt="Main" width="500" height="900"/>
 
 ![Main](Screenshots/Screenshot_20211214_193053_com.example.drreview.jpg)
 
