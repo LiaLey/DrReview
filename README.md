@@ -10,6 +10,8 @@ Note: Have not yet updated the feature where locations can be used to narrow sea
 ---
 ## Some ScreenShots
 
+<img src="Screenshots/Screenshot_20211214_193053_com.example.drreview.jpg" alt="Main" width="200" height="200"/>
+
 ![Main](Screenshots/Screenshot_20211214_193053_com.example.drreview.jpg)
 
 ![Search](Screenshot_20211214_193320_com.example.drreview.jpg)
