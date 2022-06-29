@@ -6,7 +6,7 @@ Project done for Mobile Device Programming module. An app where users can look u
 1. Database - Firebase
 2. Framework - Andriod Studio
 
-Note: Have not yet updated the feature where locations can be used to narrow search
+###Note: Have not yet updated the feature where locations can be used to narrow search
 ---
 ## Some ScreenShots
 
